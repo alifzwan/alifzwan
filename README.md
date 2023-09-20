@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @alifzwan
-- 👀 I’m interested in Mobile Application and Website Development
-- 🌱 I’m currently learning Dart, Java, Python, and Solidity
+# Hello Everyone
+
+Interested in Smart Contract, Blockchain, Web3, DevOps, and Mobile/Website Dev
+
+
+Follow me on:
+
+[![MelloIzGud Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MelloIzGud)
+[![MelloIzGud Spotify](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/alifzwan?si=fe95ea18995c4bee)
+
 
 <!---
 alifzwan/alifzwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
