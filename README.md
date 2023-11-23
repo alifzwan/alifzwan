@@ -2,7 +2,7 @@
 
 I am Alif Zakwan, Final year in Computer Science (Computer Network) and currently a student at University Putra Malaysia, Serdang.
 
-Interested in Smart Contract, Blockchain, Web3, DevOps, and Mobile/Website Dev
+Interested in Front-End Development (React, Next.js, Angular, Vue.js)
 
 
 Follow me on:
