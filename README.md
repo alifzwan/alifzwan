@@ -2,7 +2,17 @@
 
 I am Alif Zakwan, Final year in Computer Science (Computer Network) and currently a student at University Putra Malaysia, Serdang.
 
-Interested in Front-End Development (React, Next.js, Angular, Vue.js)
+As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences.
+
+Things you need to know about me 🚀: 
+
+💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS 
+
+🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js.
+
+⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)
+
+🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)
 
 
 Follow me on:
