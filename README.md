@@ -1,7 +1,7 @@
 <p>Hi 👋, I'm Alif Zakwan</p>
 <p>As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences. </p>
   
-<p>Things you need to know about me 🚀: </br>💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS  </br> 🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js.  </br>⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)  </br>🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)</p>
+<p>Things you need to know about me 🚀: </br>- 💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS  </br> - 🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js.  </br>- ⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)  </br>- 🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifzwan" alt="alifzwan" /></a> </p>
 
