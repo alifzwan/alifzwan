@@ -1,27 +1,23 @@
-# Hello Everyone
+<h1 align="center">Hi 👋, I'm Alif Zakwan</h1>
+<h3 align="center">As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences. Things you need to know about me 🚀: 💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS 🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js. ⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion) 🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)</h3>
 
-I am Alif Zakwan, Final year in Computer Science (Computer Network) and currently a student at University Putra Malaysia, Serdang.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifzwan" alt="alifzwan" /></a> </p>
 
-As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences.
+- 💻I’m currently working on my Final Year Project that develop Decentralized Application, that leveraging Web3 JS and React JS **Innovating Food Supply Chain Management: Smart Contract and Consensus Algorithm in Blockchain**
 
-Things you need to know about me 🚀: 
+- 📫 How to reach me **alifzakwan529@gmail.com**
 
-💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/melloizgud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melloizgud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alif-zakwan-965066257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alif-zakwan-965066257/" height="30" width="40" /></a>
+</p>
 
-🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifzwan&show_icons=true&locale=en&layout=compact" alt="alifzwan" /></p>
 
-🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifzwan&show_icons=true&locale=en" alt="alifzwan" /></p>
 
-
-Follow me on:
-
-[![MelloIzGud Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MelloIzGud)
-[![MelloIzGud Spotify](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/alifzwan?si=fe95ea18995c4bee)
-
-
-<!---
-alifzwan/alifzwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifzwan&" alt="alifzwan" /></p>
