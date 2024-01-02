@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alif Zakwan</h1>
-<h3 align="center">As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences. Things you need to know about me 🚀: 💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS 🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js. ⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion) 🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)</h3>
+<p>Hi 👋, I'm Alif Zakwan</p>
+<p>As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences. </p>
+  
+<p>Things you need to know about me 🚀: </br>💻 Currently working on my Final Year Project that leveraging Web3 JS and React JS  </br> 🧠 Particularly drawn myself to the versatility of React.js and the enhanced capabilities it offers, along with the server-side rendering prowess of Next.js.  </br>⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)  </br>🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifzwan" alt="alifzwan" /></a> </p>
 
-- 💻I’m currently working on my Final Year Project that develop Decentralized Application, that leveraging Web3 JS and React JS **Innovating Food Supply Chain Management: Smart Contract and Consensus Algorithm in Blockchain**
+- 💻I’m currently working on my Final Year Project that develop Decentralized Application, that leveraging Web3 JS and React JS which titled **Innovating Food Supply Chain Management: Smart Contract and Consensus Algorithm in Blockchain**
 
 - 📫 How to reach me **alifzakwan529@gmail.com**
 
