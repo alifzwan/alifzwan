@@ -1,4 +1,4 @@
-<p>Hi 👋, I'm Alif Zakwan</p>
+<h1>Hi 👋, I'm Alif Zakwan</h1>
 <p>As a person with a keen interest in Front-End Web Development, I'm gearing up for a dynamic career in crafting immersive and user-friendly web experiences. </p>
   
 <p>Things you need to know about me 🚀:</p> 
