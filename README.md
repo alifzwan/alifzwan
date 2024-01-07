@@ -9,7 +9,7 @@
   
 - ⚙️ Still exploring styling mechanism in Web Development (Tailwind and Framer-Motion)
   
-- 🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.)
+- 🔧 Concurrently working on my website portfolio that of course integrate with the pre-defined frameworks.
   
 - 💻I’m currently working on my Final Year Project that develop Decentralized Application, that leveraging Web3 JS and React JS which titled **Innovating Food Supply Chain Management: Smart Contract and Consensus Algorithm in Blockchain**
 
