@@ -24,9 +24,9 @@
 </p>
 
 ### Languages:
-| TS | JS | Solidity | HTML | CSS | Dart | C |
+| Typscript | Javascript | Solidity | HTML | CSS | Dart | C |
 |----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="css3" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="css3" width="55" height="55"/> 
+|  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/></p> |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></p> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="css3" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="css3" width="55" height="55"/> 
 
 ### Frameworks:
 | Node JS| React | Flutter | Next JS | Sass | Truffle | Web3 JS 
