@@ -44,9 +44,9 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" align="center"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55" align="center"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="85" height="85" align="center"/>|<p  align="center"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" title="express" alt="express" width="55" height="55" align="center"/></p>| <p align="center"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="55" height='55' align="center"></p>| <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" width="55" height='55' align="center"> | <p align="center"><img src="https://miro.medium.com/v2/resize:fit:350/0*E1IshKUJE53qtr9C.png" width="55" height='55'></p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alifzwan&show_icons=true&locale=en&theme=transparent" alt="alifzwan" align="left"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifzwan&theme=transparent" alt="alifzwan" align="right"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifzwan&show_icons=true&locale=en&theme=transparent" alt="alifzwan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifzwan&theme=transparent" alt="alifzwan" />
 </p>
 
 <p align="center">  
