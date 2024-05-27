@@ -49,9 +49,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifzwan&theme=transparent" alt="alifzwan" align="right"/>
 </p>
 
-
-<div id="header" align="center">
+<p align="center">  
   <img src="https://komarev.com/ghpvc/?username=alifzwan&style=for-the-badge&color=blue" alt=""/>
-</div>
+</p>
 
 
