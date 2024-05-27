@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alifzwan&show_icons=true&locale=en&theme=transparent" alt="alifzwan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifzwan&theme=transparent" alt="alifzwan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifzwan&show_icons=true&locale=en&layout=compact&theme=transparent" alt="alifzwan" />
 </p>
 
 <p align="center">  
